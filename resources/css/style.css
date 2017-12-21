@@ -30,7 +30,7 @@ p {
   text-align: center;
 }
 
-#copyright p {
+.footer p {
   text-align: right;
   color: gray;
 }
